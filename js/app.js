@@ -36,7 +36,7 @@
 					}  
 				},
 				marker:{
-					address: "40 Sibley St, Detroit",
+					address: "Evergreen Bakery, Nilky compund, Evershine City, Vasai East, Vasai-401208 Maharashtra",
 				}
 			},
 			"autofit" );
